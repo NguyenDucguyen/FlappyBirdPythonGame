@@ -72,6 +72,7 @@ while running:
      #ve nen cat
      sand_rect = screen.blit(sand_image, (0,550))
 
+
      #Ve chim
     #  bird_rect = pygame.draw.rect(screen,RED, (BIRD_X, bird_y,BIRD_WIDTH,BIRD_HEIGHT))
      bird_rect = screen.blit(bird_image, (BIRD_X, bird_y))
